@@ -29,7 +29,7 @@ Please check out our [Terms of Service](https://bemywang.github.io/Choice-Pal-Se
 If you have any questions, feedback, or feature enhancement requests, feel free to reach out to us:
 
 - English: Contact us through [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc35U5ur_Vkows8mkYm3FoJXx4n5Z1B6tFBnAzd7R9ZpHkkiA/viewform)
-- 中文: 透過Google from 聯繫我們，回報錯誤及建議: [點此](https://docs.google.com/forms/d/e/1FAIpQLSe2uPaMcPeG3xelT0ZFNWrU0wMVzuAH4z-rnPCQGi6nY0PVmw/viewform)
+- 中文: 透過Google form 聯繫我們，回報錯誤及建議: [點此](https://docs.google.com/forms/d/e/1FAIpQLSe2uPaMcPeG3xelT0ZFNWrU0wMVzuAH4z-rnPCQGi6nY0PVmw/viewform)
 
 ## FAQ
 
